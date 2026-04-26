@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Sharma
 
-## AI + Backend Developer , learning and building
+## AI + Backend Developer , learning and building , Focused on system design: decoupled ML architectures, API-based deployment, and audit logging.
 
 ### What I Have built:
 - Fraud Detection Systems
@@ -8,7 +8,7 @@
 - Financial Risk Analysis Tools
 - ML + API based systems
 
-### Tech Stack Learnt:
+### Tech Stack :
 Python, FastAPI, Streamlit, scikit-learn, YOLOv8, OpenCV
 
 📫 Let's connect:
