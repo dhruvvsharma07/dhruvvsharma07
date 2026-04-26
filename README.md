@@ -10,6 +10,8 @@
 - Financial Risk Analysis Tools
   - https://smart-finance-tool.streamlit.app/
 - ML + API based systems
+   - https://petropulseai-bvmp5dnm97mdjfsomuqkst.streamlit.app/
+   - https://customer-churn-predictor372.streamlit.app/
 
 ### Tech Stack :
 Python, FastAPI, Streamlit, scikit-learn, YOLOv8, OpenCV
