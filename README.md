@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Sharma
 
-## AI + Backend Developer , learning and building , Focused on system design: decoupled ML architectures, API-based deployment, and audit logging.
+## AI + Backend Developer , Focused on building production-oriented ML systems with real-world constraints (latency, memory, reliability), Buildinng and upgrading
 
 ### What I Have built:
 - Fraud Detection Systems
