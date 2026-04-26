@@ -8,6 +8,7 @@
 - KYC Verification Engines (VeriShield)
    - https://verishield-kyc.streamlit.app/
 - Financial Risk Analysis Tools
+  - https://smart-finance-tool.streamlit.app/
 - ML + API based systems
 
 ### Tech Stack :
