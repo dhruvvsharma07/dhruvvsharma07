@@ -2,7 +2,8 @@
 
 Currently a learner and contributing in open source occasionally. 
 
-discord - https://discord.com/users/884377110439919647
+discord - [dhruvvv.w](https://discord.com/users/884377110439919647)
+
 
 
 
