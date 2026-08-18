@@ -1,17 +1,9 @@
 # Hi, I'm Dhruv Sharma
 
-## Currently a Student, studying computer science , I have built a few projects but certainly , learning more everyday. 
+Currently a learner and contributing in open source occasionally. 
+discord - dhruvvv.w
 
-### What I Have built:
-- Fraud Detection Systems
-   - https://frauddetectionsystem111.streamlit.app/
-- KYC Verification Engines (VeriShield)
-   - https://verishield-kyc.streamlit.app/
-- Financial Risk Analysis Tools
-  - https://smart-finance-tool.streamlit.app/
-- ML + API based systems
-   - https://petropulseai-bvmp5dnm97mdjfsomuqkst.streamlit.app/
-   - https://customer-churn-predictor372.streamlit.app/
+
 
 
 
